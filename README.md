@@ -47,6 +47,15 @@ Future projects will explore optimization, supply chain resilience, and complex 
 ## Contact
 
 <p align="center">
-<a href="https://www.linkedin.com/in/YOUR-LINK">LinkedIn</a> • 
-<a href="mailto:your.email@email.com">Email</a>
-</p>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:YOUR-EMAIL">
+<img src="https://img.shields.io/badge/Email-Contact-1F2937?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="tel:+18163981873">
+<img src="https://img.shields.io/badge/Phone-%2B1%20(816)%20398--1873-841617?style=for-the-badge">
+</a>
