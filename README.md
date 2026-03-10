@@ -19,10 +19,6 @@ Example memo:
 
 ## Projects
 
-[Defense Logistics Simulation](https://github.com/parkergreenfield99-commits/defense-logistics-simulation)
-
-Monte Carlo simulation exploring disruption risk in maritime chokepoints.
-
 Future projects will explore optimization, supply chain resilience, and complex systems modeling.
 
 ---
