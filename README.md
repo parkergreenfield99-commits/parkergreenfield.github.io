@@ -1,6 +1,6 @@
 
 <img src="Professional-photo-modified.png" width="160">
-<p align="center">
+<p align="left">
 
 <img src="https://img.shields.io/badge/M.S.%20Industrial%20%26%20Systems%20Engineering-University%20of%20Oklahoma-841617?style=for-the-badge">
 
@@ -8,7 +8,7 @@
 
 </p>
 
-<p align="center">
+<p align="left">
 
 <img src="https://img.shields.io/badge/Systems%20Engineering-Complex%20Systems-111827?style=for-the-badge">
 <img src="https://img.shields.io/badge/Modeling-Simulation-374151?style=for-the-badge">
