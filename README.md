@@ -7,8 +7,10 @@
 </p>
 
 <p align="left">
-M.S. Industrial & Systems Engineering — University of Oklahoma  
-• Former Risk Analyst — EY
+<img src="https://img.shields.io/badge/M.S.%20Industrial%20%26%20Systems%20Engineering-University%20of%20Oklahoma-841617?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Former%20Risk%20Analyst-EY-1F2937?style=for-the-badge">
+
 </p>
 
 
