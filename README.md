@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="ou-banner.png">
+</p>
+
+
 # Parker Greenfield
 
 M.S. Industrial & Systems Engineering — University of Oklahoma
