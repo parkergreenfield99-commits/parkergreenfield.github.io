@@ -1,11 +1,9 @@
 
-<p align="center">
-  <img src="ou-banner.png" width="100%">
-</p>
-
 <img src="Professional-photo-modified.png" width="160">
 <p align="left">
-Systems Engineering | Modeling & Simulation | Decision Analysis
+<img src="https://img.shields.io/badge/Systems%20Engineering-Complex%20Systems-111827?style=for-the-badge">
+<img src="https://img.shields.io/badge/Modeling-Simulation-374151?style=for-the-badge">
+<img src="https://img.shields.io/badge/Decision%20Analysis-Strategy-841617?style=for-the-badge">
 </p>
 
 <p align="left">
