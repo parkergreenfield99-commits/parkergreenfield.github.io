@@ -8,11 +8,11 @@
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/Systems%20Engineering-Complex%20Systems-1F2937?style=for-the-badge">
+<img src="https://img.shields.io/badge/Systems%20Engineering-Complex%20Systems-1E3A8A?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/Modeling-Simulation-1F2937?style=for-the-badge">
+<img src="https://img.shields.io/badge/Modeling-Simulation-1E3A8A?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/Decision%20Analysis-Strategy-1F2937?style=for-the-badge">
+<img src="https://img.shields.io/badge/Decision%20Analysis-Strategy-1E3A8A?style=for-the-badge">
 
 
 </p>
